@@ -1,0 +1,7 @@
+# The Child Is a Mirror
+
+When I saw my child imitating my temper, I truly realized that the way parents handle emotions is the earliest template children learn. This reminded me of my childhood, my parents also argued often, and that feeling of powerlessness is still clear today. Later I understood that this is not uncommon in domestic families, and can even be said to be a common phenomenon. We are inevitably affected, but the key is to consciously stop this intergenerational transmission of emotions.
+
+Getting to the bottom of it, behind many family conflicts are economic and value issues. The economic environment is not good now, income pressure, unemployment risk, and asset shrinkage are all like powder kegs, making couples ignite at the slightest touch. My wife and I have also argued, and after the argument, we found that the problem was not solved, but instead cast a shadow on the child's heart. So now I feel that parents must actively adjust, accept reality first, and then find ways to increase income. This is the right way out of the predicament.
+
+I am currently stuck in this stage. I have thought about some ways out, such as selling the house or going abroad to venture, but my wife has different ideas from me. In order to avoid quarrels, I have temporarily put these thoughts away. What I can do now is probably: mention less those plans that are easy to cause disputes, and spend more time accompanying the child, at least guard this little peace in front of me first.
