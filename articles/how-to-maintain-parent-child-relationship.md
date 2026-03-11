@@ -1,7 +1,5 @@
 # 如何维系亲子关系
 
-![如何维系亲子关系](https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Minimalist%20book%20illustration%2C%20warm%20tones%2C%20a%20father%20and%20a%20little%20boy%20sitting%20at%20a%20small%20round%20table%20talking%20happily%20like%20friends%2C%20simple%20home%20background%2C%20soft%20lighting%2C%20cozy%2C%20high%20quality&image_size=landscape_16_9)
-
 如何维系亲子关系，上一篇我写到“我和孩子更像伙伴”，而不是父子关系。从孩子出生的那一刻起，我就意识到他是一个独立的个体，是家庭的新成员，拥有自己的思想和个性。
 
 今天继续以一个不合格的父亲的身份，分享一些个人的教育心得。

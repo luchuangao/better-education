@@ -1,7 +1,5 @@
 # 给孩子时间
 
-![给孩子时间](https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Minimalist%20book%20illustration%2C%20warm%20colors%2C%20a%20child%20focused%20on%20building%20blocks%20or%20reading%20on%20the%20floor%2C%20no%20TV%20or%20phones%20around%2C%20peaceful%20and%20quiet%20atmosphere%2C%20soft%20lighting%2C%20high%20quality&image_size=landscape_16_9)
-
 作为一个曾经在电视陪伴下长大、对时间管理缺乏概念的不合格父亲，我深切体会到给予孩子自主时间的重要性。在我成长的过程中，电视占据了绝大部分课余时间，直到初中住校才有所改变。因此，当自己成为父亲后，我做的第一件事就是不在家里安装电视，到现在都没有电视，让孩子有更多时间去户外玩耍、阅读和玩玩具。这让他的专注力从小得到了很好的培养。
 
 如今，手机逐渐取代了电视，成为消耗时间的主要工具。我们并没有完全禁止孩子使用手机，一部分学习任务需要通过手机完成，他也有看动画片和玩游戏的自由。但通过家庭沟通，我们达成了共识：每次使用不超过20分钟，每天总时长不超过1小时。这条规则不是强加的规定，而是全家一起商定的原则。只有控制好屏幕时间，他才能拥有属于自己的空闲，去探索真正感兴趣的事物。
