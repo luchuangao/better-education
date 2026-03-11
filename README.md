@@ -23,3 +23,8 @@ Thinking and sharing about better education practices and reflections.
 | [允许批评](./articles/allow-criticism.md) | [Allow Criticism](./articles/allow-criticism.en.md) |
 | [陪伴的重要性](./articles/the-importance-of-companionship.md) | [The Importance of Companionship](./articles/the-importance-of-companionship.en.md) |
 | [感觉不应该做就别做](./articles/if-you-feel-you-shouldnt-do-it-dont-do-it.md) | [If You Feel You Shouldn't Do It, Don't Do It](./articles/if-you-feel-you-shouldnt-do-it-dont-do-it.en.md) |
+| [有趣](./articles/make-life-interesting.md) | [Make Life Interesting](./articles/make-life-interesting.en.md) |
+| [理解](./articles/understanding.md) | [Understanding](./articles/understanding.en.md) |
+| [反内卷](./articles/anti-involution.md) | [Anti-Involution](./articles/anti-involution.en.md) |
+| [学习环境](./articles/learning-environment.md) | [Learning Environment](./articles/learning-environment.en.md) |
+| [延迟满足](./articles/delayed-gratification.md) | [Delayed Gratification](./articles/delayed-gratification.en.md) |
