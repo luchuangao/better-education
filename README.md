@@ -3,28 +3,55 @@
 探讨和分享关于更好教育的思考与实践。
 Thinking and sharing about better education practices and reflections.
 
-## 文章列表 / Articles
+## 文章分类 / Categories
+
+### 亲子关系与家庭氛围 / Relationship & Family Atmosphere
+
+| 中文 (Chinese) | 英文 (English) |
+| :--- | :--- |
+| [如何维系亲子关系](./articles/how-to-maintain-parent-child-relationship.md) | [How to Maintain Parent-Child Relationship](./articles/how-to-maintain-parent-child-relationship.en.md) |
+| [你是孩子最好的朋友](./articles/you-are-your-childs-best-friend.md) | [You Are Your Child's Best Friend](./articles/you-are-your-childs-best-friend.en.md) |
+| [陪伴的重要性](./articles/the-importance-of-companionship.md) | [The Importance of Companionship](./articles/the-importance-of-companionship.en.md) |
+| [孩子是一面镜子](./articles/the-child-is-a-mirror.md) | [The Child Is a Mirror](./articles/the-child-is-a-mirror.en.md) |
+
+### 自主、边界与安全感 / Autonomy, Boundaries & Safety
+
+| 中文 (Chinese) | 英文 (English) |
+| :--- | :--- |
+| [给孩子时间](./articles/give-children-time.md) | [Give Children Time](./articles/give-children-time.en.md) |
+| [给孩子空间](./articles/give-children-space.md) | [Give Children Space](./articles/give-children-space.en.md) |
+| [孩子的安全感从何而来？](./articles/where-does-a-childs-sense-of-security-come-from.md) | [Where Does a Child's Sense of Security Come From?](./articles/where-does-a-childs-sense-of-security-come-from.en.md) |
+| [感觉不应该做就别做](./articles/if-you-feel-you-shouldnt-do-it-dont-do-it.md) | [If You Feel You Shouldn't Do It, Don't Do It](./articles/if-you-feel-you-shouldnt-do-it-dont-do-it.en.md) |
+
+### 学习与能力培养 / Learning & Skill Building
+
+| 中文 (Chinese) | 英文 (English) |
+| :--- | :--- |
+| [学习环境](./articles/learning-environment.md) | [Learning Environment](./articles/learning-environment.en.md) |
+| [了解儿童发育阶段](./articles/understand-child-development-stages.md) | [Understand Child Development Stages](./articles/understand-child-development-stages.en.md) |
+| [保护孩子的好奇心](./articles/protect-childrens-curiosity.md) | [Protect Children's Curiosity](./articles/protect-childrens-curiosity.en.md) |
+| [理解](./articles/understanding.md) | [Understanding](./articles/understanding.en.md) |
+| [有趣](./articles/make-life-interesting.md) | [Make Life Interesting](./articles/make-life-interesting.en.md) |
+
+### 价值观与心理资本 / Values & Psychological Capital
+
+| 中文 (Chinese) | 英文 (English) |
+| :--- | :--- |
+| [允许批评](./articles/allow-criticism.md) | [Allow Criticism](./articles/allow-criticism.en.md) |
+| [接受平凡，拒绝平庸](./articles/accept-being-ordinary-reject-being-mediocre.md) | [Accept Being Ordinary, Reject Being Mediocre](./articles/accept-being-ordinary-reject-being-mediocre.en.md) |
+| [延迟满足](./articles/delayed-gratification.md) | [Delayed Gratification](./articles/delayed-gratification.en.md) |
+| [不要忘记你也曾是个孩子](./articles/dont-forget-you-were-once-a-child.md) | [Don't Forget You Were Once a Child](./articles/dont-forget-you-were-once-a-child.en.md) |
+
+### 教育观与社会现实 / Education Philosophy & Social Reality
 
 | 中文 (Chinese) | 英文 (English) |
 | :--- | :--- |
 | [最好的教育](./articles/the-best-education.md) | [The Best Education](./articles/the-best-education.en.md) |
-| [如何维系亲子关系](./articles/how-to-maintain-parent-child-relationship.md) | [How to Maintain Parent-Child Relationship](./articles/how-to-maintain-parent-child-relationship.en.md) |
-| [孩子的安全感从何而来？](./articles/where-does-a-childs-sense-of-security-come-from.md) | [Where Does a Child's Sense of Security Come From?](./articles/where-does-a-childs-sense-of-security-come-from.en.md) |
-| [给孩子时间](./articles/give-children-time.md) | [Give Children Time](./articles/give-children-time.en.md) |
-| [给孩子空间](./articles/give-children-space.md) | [Give Children Space](./articles/give-children-space.en.md) |
-| [了解儿童发育阶段](./articles/understand-child-development-stages.md) | [Understand Child Development Stages](./articles/understand-child-development-stages.en.md) |
-| [孩子是一面镜子](./articles/the-child-is-a-mirror.md) | [The Child Is a Mirror](./articles/the-child-is-a-mirror.en.md) |
-| [你是孩子最好的朋友](./articles/you-are-your-childs-best-friend.md) | [You Are Your Child's Best Friend](./articles/you-are-your-childs-best-friend.en.md) |
 | [教育的本质是什么](./articles/what-is-the-essence-of-education.md) | [What Is the Essence of Education](./articles/what-is-the-essence-of-education.en.md) |
-| [不要忘记你也曾是个孩子](./articles/dont-forget-you-were-once-a-child.md) | [Don't Forget You Were Once a Child](./articles/dont-forget-you-were-once-a-child.en.md) |
-| [保护孩子的好奇心](./articles/protect-childrens-curiosity.md) | [Protect Children's Curiosity](./articles/protect-childrens-curiosity.en.md) |
-| [受害者心态](./articles/victim-mentality.md) | [Victim Mentality](./articles/victim-mentality.en.md) |
-| [接受平凡，拒绝平庸](./articles/accept-being-ordinary-reject-being-mediocre.md) | [Accept Being Ordinary, Reject Being Mediocre](./articles/accept-being-ordinary-reject-being-mediocre.en.md) |
-| [允许批评](./articles/allow-criticism.md) | [Allow Criticism](./articles/allow-criticism.en.md) |
-| [陪伴的重要性](./articles/the-importance-of-companionship.md) | [The Importance of Companionship](./articles/the-importance-of-companionship.en.md) |
-| [感觉不应该做就别做](./articles/if-you-feel-you-shouldnt-do-it-dont-do-it.md) | [If You Feel You Shouldn't Do It, Don't Do It](./articles/if-you-feel-you-shouldnt-do-it-dont-do-it.en.md) |
-| [有趣](./articles/make-life-interesting.md) | [Make Life Interesting](./articles/make-life-interesting.en.md) |
-| [理解](./articles/understanding.md) | [Understanding](./articles/understanding.en.md) |
 | [反内卷](./articles/anti-involution.md) | [Anti-Involution](./articles/anti-involution.en.md) |
-| [学习环境](./articles/learning-environment.md) | [Learning Environment](./articles/learning-environment.en.md) |
-| [延迟满足](./articles/delayed-gratification.md) | [Delayed Gratification](./articles/delayed-gratification.en.md) |
+
+### 父母自我成长与修复 / Parental Growth & Healing
+
+| 中文 (Chinese) | 英文 (English) |
+| :--- | :--- |
+| [受害者心态](./articles/victim-mentality.md) | [Victim Mentality](./articles/victim-mentality.en.md) |
