@@ -1,5 +1,7 @@
 # Where Does a Child's Sense of Security Come From?
 
+![Where Does a Child's Sense of Security Come From?](https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Minimalist%20book%20illustration%2C%20watercolor%20style%2C%20a%20little%20boy%20playing%20on%20a%20slide%20or%20running%20in%20a%20park%2C%20sunny%20day%2C%20father%20watching%20from%20a%20distance%20with%20a%20smile%2C%20energetic%20but%20soft%20strokes%2C%20high%20quality&image_size=landscape_16_9)
+
 Where does a child's sense of security come from? In the last article, I talked about the problem of children "not listening", and the time he shows his autonomy most often is when playing outdoors.
 
 Today I want to continue this topic and talk about my understanding of "sense of security".

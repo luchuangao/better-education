@@ -1,5 +1,7 @@
 # 孩子的安全感从何而来？
 
+![孩子的安全感从何而来？](https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Minimalist%20book%20illustration%2C%20watercolor%20style%2C%20a%20little%20boy%20playing%20on%20a%20slide%20or%20running%20in%20a%20park%2C%20sunny%20day%2C%20father%20watching%20from%20a%20distance%20with%20a%20smile%2C%20energetic%20but%20soft%20strokes%2C%20high%20quality&image_size=landscape_16_9)
+
 孩子的安全感从何而来？上一篇说到孩子“不听话”的问题，他最常表现出自主意识的就是在户外玩耍的时候。
 
 今天我想接着这个话题，聊一聊我对“安全感”的理解。

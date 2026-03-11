@@ -1,5 +1,7 @@
 # The Best Education
 
+![The Best Education](https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Minimalist%20book%20illustration%2C%20warm%20watercolor%20style%2C%20a%20father%20and%20a%20little%20boy%20reading%20a%20book%20together%20on%20a%20cozy%20sofa%2C%20soft%20sunlight%20coming%20through%20the%20window%2C%20heartwarming%20atmosphere%2C%20soft%20colors%2C%20high%20quality&image_size=landscape_16_9)
+
 What is the best education? I don't consider myself a qualified father yet; I still have a lot to learn. But in my heart, our child is a qualified child, happy every day, completely the "child from another family" in others' eyes. Although he occasionally annoys me, most of the time, he brings me full happiness and childhood-like healing.
 
 Today, as a self-proclaimed "unqualified" father, I want to share some of my educational insights.

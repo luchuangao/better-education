@@ -1,5 +1,7 @@
 # 最好的教育
 
+![最好的教育](https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Minimalist%20book%20illustration%2C%20warm%20watercolor%20style%2C%20a%20father%20and%20a%20little%20boy%20reading%20a%20book%20together%20on%20a%20cozy%20sofa%2C%20soft%20sunlight%20coming%20through%20the%20window%2C%20heartwarming%20atmosphere%2C%20soft%20colors%2C%20high%20quality&image_size=landscape_16_9)
+
 什么是最好的教育？我自认为自己还不是一个合格的爸爸，还有很多要学习的地方。但在我心里，我们家孩子却是一个合格的孩子，每天开开心心，完全是别人眼中“别人家孩子”的样子。虽然偶尔也会让我恼火，但绝大多数时候，他带给我的是满满的幸福和童年般的治愈。
 
 今天，作为一个自认“不合格”的父亲，我想分享一点自己的教育心得。
